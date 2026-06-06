@@ -33,4 +33,4 @@ Em qualquer página que possua o GTM instalado, abra o DevTools, aperte `Ctrl + 
 Se você precisar revisar as tags que foram processadas *antes* da injeção do Zapdos ou quiser gerar um relatório rápido da sessão atual, digite no console:
 
 ```javascript
-Zapdos_agora()
+zapdos_agora()
